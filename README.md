@@ -5,6 +5,7 @@ A project focusing on data extraction, exploration and visualization of the COVI
 The goals has been to make use of "real-life" datasets, apply thorough data cleaning and exploration, and eventually, identify emerging trends of the coronavirus pandemic.
 
 **Workflow followed**
+
 The process I followed has generally been:
 
 1.Data import
