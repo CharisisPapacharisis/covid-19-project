@@ -13,4 +13,4 @@ The process I followed has generally been:
 - Exploratory Data Analysis (EDA)
 - Final interactive visualization on Tableau Software
 
-For the data import & mining I have used wget/ pandas libraries, while for EDA I have also involved matplotlib/ seaborn/ folium. The COVID-19 data are extracted by the John Hopkins University github page, while the country population data are extracted from the United Nations and World Bank latest available datasets.
+For the data import & mining I have used wget/ pandas libraries, while for EDA I have also involved matplotlib/ seaborn/ folium. The COVID-19 data is extracted by the John Hopkins University github page, while the country population data are extracted from the United Nations and World Bank latest available datasets.
